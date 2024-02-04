@@ -2,7 +2,7 @@
 The data dashboard challenge for the Winter 2024 BIS 412 Advanced Data Visualization course. The challenges uses data from the Seattle Department of Transportation (SDOT),
 - Authored by Donny N, Eric, Jaime Y, Sam.
 
-Proposed Plan
+## Proposed Plan
 First Week:
 - Importing data to clean and process by removing unneeded information.
 - Sketch ideas and potential mark ups of visualizations for the dashboard.
