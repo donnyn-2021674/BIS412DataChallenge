@@ -3,6 +3,8 @@ The data dashboard challenge for the Winter 2024 BIS 412 Advanced Data Visualiza
 - Challenges created by and made for the BIS 412 Advanced Ddata Visualization course at the University of Washington Bothell.
 - Authored by Donny N, Eric, Jaime Y, Sam.
 
+## Challenge Description
+
 ## Proposed Plan
 First Week:
 - Importing data to clean and process by removing unneeded information.
@@ -25,3 +27,5 @@ Final Week:
 - Evaluate user interface for user interface and clarity.
 - Publish the final dashboard.
 - Test the live version and ensure all components are functioning correctly.
+
+## Background
